@@ -1,0 +1,25 @@
+saya adalah seorang mahasiswa. tolong bantu saya untung membuat program bahasa C. dimana ini adalah layanan Del-Express. ongkos kirim perkilo sudah di tentukan. ada beberapa variabel yang sudah di tentukan. seperti kode kota yang menggambarkan atau menyatakan nama kota, lalu harga ongkos kirim per kilo dan keterangannya
+MDN = Medan 8000 dalam pulau
+BLG = Balige 5000 dalam pulau
+JKT = Jakarta 12000 luar pulau
+SBY = Surabaya.13000 luar pulau
+selain inji, ada juga ditentukan promo yang ada dimana, jika pengiriman lebih dari 10kg, maka total harga akan diberi diskon sebesar 10%. jika pengiriman ke luar pulau, maka asuransi gratis. berati promo mendapat asuransi gratis ini berlaku jika si user mengirimnya ke JKT atau/dan SBY.
+
+disini butet dan ucok akan mengirimkan barang mereka masing masing. butet memiliki bobot x kg, sedangkan ucok memiliki 3/2 dari berat paket butet. misalnya butet memiliki paket seberta 1kg, berarti paket ucok adalh 1,5 kg. di dalam input, berat paket ucok tidak akan  diberi terus terang, namun programlah yang menghitung dari beraat paket si butet x dengan 3/2
+input dari user hanyalah kode kota, dan berat paket butet. output yang diharapkan adalah kota tujuan, berat paket butet, berat paket ucok, totalberat, total ongkos kirim, informasi promo yang di peroleh. output akan keluar dalam bentuk struk. jangan buat komen apda kode program yang akan di berikan. total ongkos kirim adalah total dari keselurahn dan sudah ikut promonya.
+
+contoh inputny adalah 
+MDN
+5
+JKT
+3
+BLG
+4
+
+outputnya buat dalam bentuk struk. 
+kota tujuan 1:
+berat paket butet 1:
+berat paket ucok 1: 
+total berat1:
+total ongkos kirim:
+informasi promo yang dieproleh:

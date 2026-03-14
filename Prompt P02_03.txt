@@ -1,0 +1,24 @@
+saya adalah seorang mahasiswa semester 2. bantu saya untuk membuat program layanan Cafetaria IT Del. jadi di dalam cafetaria di IT Del ini menyediakan banyak pilihan makanan dan minuman. ada harga harga dari setiap makanan dan minuman. berikut adalah nama makanan, dan harga dari setiap makanan yang ada.
+roti Isi Ayam 15000
+risol 10000
+pkl 10000
+sosis 15000
+piscok 10000
+donat 10000
+tempe 10000
+tahu 10000
+bakwan 10000
+kentang 15000
+
+minuman dan harga
+chocolatos 8000
+teh tarik 8000
+capucino 8000
+kopi hitam 5000
+sogem 8000
+
+jadi pertama user akan memilih membeli makanan atau minuman. lalu user akan memberikan berapa jenis yang dibeli, memberikan nama makanan yang akan dibeli , kemudian jumlah makanan yang dibeli. lalu program akan menghitung total per makanan/ minuman kemudian total keseluruhan. jika sudah selesai melakukan perulangan, jika awalnya dia memilih makanan maka tanya apakah dia ingin membeli minuman? jawaban dari si user hanya y atau n. jika y, user akan memasukkan jumlah minuman yang akan dim beli, lalu jenis  minuman yang akan dibeli. setelah itu jumlah minuman yang akan di beli per jenis. program akan menghitung jumlah harga per jenis minuman dan jumlah minuman keseluruhan seddangkan jika awal dia memilih minuman, tanya kepada si user apakh dia ingin membeli makanan atau tidak. jawabannya hanya y atau n kemudian jika y, instruksinya sama seperti yang minuman. lalu, program akan mengeljuarkan output berbentuk struk. namun jika si user mimilh n , maka program langsung mengeluarkan output berbentuk struk.
+bentuk struk yang diinginkan adalah
+nama makanan / minuman, jumlah per jenis, harga satuan, harga keseluruhan per jenis. lalu di paling bawah adalah total keseluruhan makanan dan minuman. 
+
+coba buat outputnya lebih rapih
